@@ -1,0 +1,5 @@
+azure-cognitiveservices-speech 
+openai 
+python-docx 
+diagrams
+bpmn-python
